@@ -92,7 +92,7 @@ font-weight: inherit;
 .end-header{  
     display: flex;
     align-items: center;
-    background-image: url(bg_1.jpg);
+    background-image: url(imgs/bg_1.jpg);
     background-size: cover;
     height:550px;
 }
